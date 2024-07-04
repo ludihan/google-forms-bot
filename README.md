@@ -29,5 +29,5 @@ go build bot.go
 ```sh
 ./bot file.csv <url>
 ```
-VERY IMPORTANT: if you want fill out an email in the form put the key "emailAddress"
+VERY IMPORTANT: if you want to fill out an email in the form put the key "emailAddress"
     in the csv
