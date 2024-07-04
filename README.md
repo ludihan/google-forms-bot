@@ -1,6 +1,9 @@
 Does your organization force you to fill tons of meaningless forms like a caveman?
+
 I'm pretty sure they do!
+
 Hit'em with some automation!
+
 (this doesnt work with forms that send a copy of themselves to the user's email
  or ones that have Gmail authentication, probably because of
  [this](https://blog.talosintelligence.com/google-forms-quiz-spam/))
